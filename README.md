@@ -1,8 +1,13 @@
 # QiBlogJS
 
-A simple, modern, responsive blogging platform built with Fresh framework and Deno, featuring a beautiful card-based UI design and comprehensive admin panel.
+A simple, modern, responsive blogging platform built with **Fresh framework** and **Deno**, featuring a beautiful card-based UI design and comprehensive admin panel.
 
-![QiBlogJS Screenshot](https://via.placeholder.com/800x400?text=QiBlogJS+Modern+Blog+Platform)
+<img width="1364" height="577" alt="image" src="https://github.com/user-attachments/assets/472a17ce-b6fa-4f4b-b7f7-eaf0834480b2" />
+
+Powered by: 
+
+<img height="67" alt="image" src="https://github.com/user-attachments/assets/43ec806b-2b78-4a0f-aea8-ed66767eb148" /> <img width="167" height="67" alt="image" src="https://github.com/user-attachments/assets/907d6b56-fced-4383-ab3d-ad595d948dee" />
+
 
 ## Features
 
